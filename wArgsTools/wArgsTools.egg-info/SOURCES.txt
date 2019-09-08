@@ -1,0 +1,8 @@
+README.md
+setup.py
+wArgsTools/__init__.py
+wArgsTools/wArgsModule.py
+wArgsTools.egg-info/PKG-INFO
+wArgsTools.egg-info/SOURCES.txt
+wArgsTools.egg-info/dependency_links.txt
+wArgsTools.egg-info/top_level.txt

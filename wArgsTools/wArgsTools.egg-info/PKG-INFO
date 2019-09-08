@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: wArgsTools
+Version: 0.0.1
+Summary: Class factory for to callabls' args dynamically using ArgParser 
+Home-page: https://github.com/TBA
+Author: Mo Hossny
+Author-email: mohossny@deakin.edu.au
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
